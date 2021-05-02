@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/memedog",
+    "prod_uri": "mysql://root:@localhost/memedog",
+    "fb_url":"https://facebook.com/Cheems",
+    "tw_url": "https://twitter.com/Cheems",
+    "gh_url": "https://github.com/Cheems",
+    "blog_name":"The Meme Dogg",
+    "gmail-user":"enter ur email",
+    "gmail-password": "enter ur email password",
+    "about-text": "The intentional misspelling of dog as doge for comedic value goes back to 2005, when it was used in an episode of the web series Homestar Runner. The story of the doge meme begins in February 2010, when Atsuko Sato, a Japanese kindergarten teacher, posted photos on her blog of her pet dog Kabosu, a Shiba Inu.",
+     "no_of_posts": 1,
+    "login_img":"cheem.jpg",
+    "admin_user":"mak",
+    "admin_password": "acp",
+    "upload_location":"C:\\Users\\nihar\\PycharmProjects\\Flask-tut\\static"
+  }
+}
